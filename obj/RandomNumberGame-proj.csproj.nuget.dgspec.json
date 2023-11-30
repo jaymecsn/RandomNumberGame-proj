@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/pengdev-01/Desktop/CS estudos/RandomNumberGame-proj/RandomNumberGame-proj.csproj": {}
+  },
+  "projects": {
+    "/home/pengdev-01/Desktop/CS estudos/RandomNumberGame-proj/RandomNumberGame-proj.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/pengdev-01/Desktop/CS estudos/RandomNumberGame-proj/RandomNumberGame-proj.csproj",
+        "projectName": "RandomNumberGame-proj",
+        "projectPath": "/home/pengdev-01/Desktop/CS estudos/RandomNumberGame-proj/RandomNumberGame-proj.csproj",
+        "packagesPath": "/home/pengdev-01/.nuget/packages/",
+        "outputPath": "/home/pengdev-01/Desktop/CS estudos/RandomNumberGame-proj/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/pengdev-01/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

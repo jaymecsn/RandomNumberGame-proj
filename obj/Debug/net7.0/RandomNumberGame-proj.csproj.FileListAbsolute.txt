@@ -1,0 +1,15 @@
+/home/pengdev-01/Desktop/CS estudos/RandomNumberGame-proj/bin/Debug/net7.0/RandomNumberGame-proj
+/home/pengdev-01/Desktop/CS estudos/RandomNumberGame-proj/bin/Debug/net7.0/RandomNumberGame-proj.deps.json
+/home/pengdev-01/Desktop/CS estudos/RandomNumberGame-proj/bin/Debug/net7.0/RandomNumberGame-proj.runtimeconfig.json
+/home/pengdev-01/Desktop/CS estudos/RandomNumberGame-proj/bin/Debug/net7.0/RandomNumberGame-proj.dll
+/home/pengdev-01/Desktop/CS estudos/RandomNumberGame-proj/bin/Debug/net7.0/RandomNumberGame-proj.pdb
+/home/pengdev-01/Desktop/CS estudos/RandomNumberGame-proj/obj/Debug/net7.0/RandomNumberGame-proj.csproj.AssemblyReference.cache
+/home/pengdev-01/Desktop/CS estudos/RandomNumberGame-proj/obj/Debug/net7.0/RandomNumberGame-proj.GeneratedMSBuildEditorConfig.editorconfig
+/home/pengdev-01/Desktop/CS estudos/RandomNumberGame-proj/obj/Debug/net7.0/RandomNumberGame-proj.AssemblyInfoInputs.cache
+/home/pengdev-01/Desktop/CS estudos/RandomNumberGame-proj/obj/Debug/net7.0/RandomNumberGame-proj.AssemblyInfo.cs
+/home/pengdev-01/Desktop/CS estudos/RandomNumberGame-proj/obj/Debug/net7.0/RandomNumberGame-proj.csproj.CoreCompileInputs.cache
+/home/pengdev-01/Desktop/CS estudos/RandomNumberGame-proj/obj/Debug/net7.0/RandomNumberGame-proj.dll
+/home/pengdev-01/Desktop/CS estudos/RandomNumberGame-proj/obj/Debug/net7.0/refint/RandomNumberGame-proj.dll
+/home/pengdev-01/Desktop/CS estudos/RandomNumberGame-proj/obj/Debug/net7.0/RandomNumberGame-proj.pdb
+/home/pengdev-01/Desktop/CS estudos/RandomNumberGame-proj/obj/Debug/net7.0/RandomNumberGame-proj.genruntimeconfig.cache
+/home/pengdev-01/Desktop/CS estudos/RandomNumberGame-proj/obj/Debug/net7.0/ref/RandomNumberGame-proj.dll

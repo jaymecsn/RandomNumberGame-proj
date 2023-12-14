@@ -118,5 +118,5 @@ void randomNums()
     
 }
 
-intro();
+//intro();
 menu();
